@@ -1,4 +1,4 @@
-Execute on ubuntu 16.04. 
+Execute on ubuntu 20.04. browser : firefox
 
 To execute the HW:
     1. key "make"
